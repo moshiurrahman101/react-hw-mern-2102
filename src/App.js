@@ -1,12 +1,10 @@
-import Header from "./components/Header";
-import HeroSection from "./components/HeroSection";
+import Index from "./components/Index";
 
 
 function App() {
   return (
     <>
-      <Header />
-      <HeroSection />
+      <Index />
     </>
   );
 }

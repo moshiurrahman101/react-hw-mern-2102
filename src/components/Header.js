@@ -9,9 +9,8 @@ function Header() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ms-auto">
-                    <Nav.Link href="#home" className='text-black'>About Me</Nav.Link>
-                    <Nav.Link href="#link" className='text-black'>Youtube</Nav.Link>
-                    <Nav.Link href="#link" className='text-black'>Blog</Nav.Link>
+                    <Nav.Link href="/#blog" className='text-black'>Blog</Nav.Link>
+                    <Nav.Link href="/#signup" className='text-black'>Sign up</Nav.Link>
                 </Nav>
                 </Navbar.Collapse>
             </Container>
